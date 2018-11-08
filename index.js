@@ -10,7 +10,6 @@ import {
 
 import PropTypes from 'prop-types';
 
-
 import htmlContent from './injectedHtml';
 import injectedSignaturePad from './injectedJavaScript/signaturePad';
 import injectedApplication from './injectedJavaScript/application';
